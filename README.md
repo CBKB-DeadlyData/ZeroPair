@@ -27,6 +27,20 @@ ZeroPair is a proof-of-concept tool that demonstrates a zero-authentication vuln
 
 ---
 
+## Proof of Concept
+
+<p align="center">
+  <img src="assets/PoC.jpg" alt="ZeroPair Proof of Concept" width="600">
+</p>
+
+<p align="center">
+  <video src="assets/PoC.mov" controls width="600"></video>
+</p>
+
+> **Note:** If the video doesn't render on GitHub, [click here to download it](assets/PoC.mov).
+
+---
+
 ## Vulnerability Summary
 
 Bluetooth-enabled thermal printers using Jieli and Barrot Bluetooth chipsets contain an authentication bypass vulnerability in their RFCOMM (SPP) service. Due to improper access control implemented in firmware, the affected devices accept unauthenticated RFCOMM connections without requiring pairing or user interaction. The vulnerability exists in a hidden firmware trust state that cannot be inspected or removed using standard Bluetooth management tools.
