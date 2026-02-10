@@ -30,10 +30,12 @@ ZeroPair is a proof-of-concept tool that demonstrates a zero-authentication vuln
 ## Proof of Concept
 
 <p align="center">
-  <img src="assets/PoC.jpg" alt="ZeroPair Proof of Concept" width="600">
+  <img src="https://github.com/user-attachments/assets/f39ba0a0-d287-4829-9baa-037abaa02e3b" alt="ZeroPair Proof of Concept" width="500">
 </p>
 
-*Video: Drag and drop your `PoC_compressed.mp4` here when editing on GitHub*
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/37abd154-a4a3-4413-96bb-294d1df6e51e" width="500" controls></video>
+</p>
 
 ---
 
